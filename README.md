@@ -75,4 +75,4 @@ weatherforecast/
 
 最终效果图：
 
-![img](file:///C:\Users\ASUS\Documents\Tencent Files\2171655805\nt_qq\nt_data\Pic\2025-06\Ori\a4710487a41c5049b72cc51010945f6b.png)
+![a4710487a41c5049b72cc51010945f6b](E:\QT-WeatherForecast\weatherforecast\a4710487a41c5049b72cc51010945f6b.png)
