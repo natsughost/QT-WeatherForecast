@@ -1,5 +1,6 @@
 # QT-WeatherForecast
 Create a WeatherForecast using qt
+<<<<<<< HEAD
 
 \1. 项目概述
 
