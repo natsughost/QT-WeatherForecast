@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/1.png</file>
+        <file>res/2.png</file>
+        <file>res/3.png</file>
+        <file>res/4.png</file>
+        <file>res/sun.png</file>
+        <file>res/search.png</file>
+        <file>res/duoyun.png</file>
+        <file>res/close.png</file>
+        <file>res/data.json</file>
+        <file>res/dabaoyu.png</file>
+        <file>res/daxue.png</file>
+        <file>res/leibaoyu.png</file>
+        <file>res/xiaoxue.png</file>
+        <file>res/xiaoyu.png</file>
+        <file>res/yin.png</file>
+        <file>res/zhongyu.png</file>
+        <file>res/zhonxue.png</file>
+        <file>res/baoxue.png</file>
+        <file>res/baoyu.png</file>
+        <file>res/DaBaoYuDaoTeDaBaoYu.png</file>
+        <file>res/dadaobaoxue.png</file>
+        <file>res/dongyu.png</file>
+        <file>res/fuchen.png</file>
+        <file>res/leizhenyu.png</file>
+        <file>res/leizhenyubanyoubingbao.png</file>
+        <file>res/mai.png</file>
+        <file>res/qiangshachenbao.png</file>
+        <file>res/shachenbao.png</file>
+        <file>res/tedabaoyu.png</file>
+        <file>res/wu.png</file>
+        <file>res/xiaodaozhongyu.png</file>
+        <file>res/xiaodaozhonxue.png</file>
+        <file>res/xue.png</file>
+        <file>res/yangchen.png</file>
+        <file>res/yujiaxue.png</file>
+        <file>res/zhenxue.png</file>
+        <file>res/zhenyu.png</file>
+        <file>res/zhongdaodaxue.png</file>
+        <file>res/zhongdaodayu.png</file>
+        <file>res/zhongxue.png</file>
+        <file>res/dayu.png</file>
+    </qresource>
+</RCC>
