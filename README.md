@@ -75,4 +75,4 @@ weatherforecast/
 
 最终效果图：
 
-![a4710487a41c5049b72cc51010945f6b](E:\QT-WeatherForecast\weatherforecast\a4710487a41c5049b72cc51010945f6b.png)
+![a4710487a41c5049b72cc51010945f6b](weatherforecast\a4710487a41c5049b72cc51010945f6b.png)
