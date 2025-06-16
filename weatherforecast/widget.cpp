@@ -13,7 +13,7 @@ Widget::Widget(QWidget *parent)
     menuQuit->addAction(openAct);
     connect(menuQuit,&QMenu::triggered,this,[this]{
         this->close();
-    });
+    });  
 
     manager =new QNetworkAccessManager(this);
     URL="http://t.weather.itboy.net/api/weather/city/101010100";
