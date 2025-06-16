@@ -181,7 +181,7 @@ void Widget::drawTempLineLow()
 }
 
 void Widget::parseWeatherJsonData(QByteArray rawData){
-    QJsonDocument jsonObj =QJsonDocument::fromJson(rawData);
+    QJsonDocument jsonObj =QJsonDocument::fromJson(rawData);  //转化为json对象
     if(!jsonObj.isNull()&& jsonObj.isObject()){
         QJsonObject objRoot =jsonObj.object();
         QString time =objRoot["time"].toString();
