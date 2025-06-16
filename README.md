@@ -73,6 +73,6 @@ weatherforecast/
 | cityCodeUtils         | 城市编码工具类                 | 城市编码查询和转换                                           |
 | QNetworkAccessManager | 网络请求管理                   | 处理HTTP请求和响应                                           |
 
-最终效果图：
+最终效果图： 
 
 ![a4710487a41c5049b72cc51010945f6b](a4710487a41c5049b72cc51010945f6b.png)
